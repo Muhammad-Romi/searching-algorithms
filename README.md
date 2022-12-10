@@ -1,3 +1,3 @@
-# searching-algorithms
+# Searching Algorithms
 
 read me comming soon!!!!
