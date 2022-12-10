@@ -1,3 +1,6 @@
-# Searching Algorithms
 
-read me comming soon!!!!
+# Search Algorithms
+This repo is for the students for easy access to all the search algorithms.
+
+* Linear Search
+* Binary Search
